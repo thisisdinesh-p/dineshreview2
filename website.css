@@ -1,0 +1,25 @@
+.col {
+   padding-left:1500px;
+  }
+  .ol{
+    padding-left: 1px;
+  }
+  body{
+    background-image: url('');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  }
+  .head{
+    text-align: center;
+  }
+  .para{
+    text-align: center;
+    font-size: 15px;
+  }
+  .head{
+    font-size: 60px;
+  }
+  body{
+    background-color:azure;
+  }
